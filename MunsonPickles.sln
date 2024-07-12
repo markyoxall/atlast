@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35017.193
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MunsonPickles", "MunsonPickles\MunsonPickles.csproj", "{1374558E-9931-45E4-94FC-9C021B238586}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1374558E-9931-45E4-94FC-9C021B238586}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1374558E-9931-45E4-94FC-9C021B238586}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1374558E-9931-45E4-94FC-9C021B238586}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1374558E-9931-45E4-94FC-9C021B238586}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F3DE36C-AF59-4987-943A-E2A99CF12F0E}
+	EndGlobalSection
+EndGlobal
